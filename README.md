@@ -1,2 +1,2 @@
-## UST D3 Global HACKATHON ##
+## UST GLOBAL D3 HACKATHON ##
 Hello
