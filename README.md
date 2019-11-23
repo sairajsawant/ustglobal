@@ -1,2 +1,1 @@
 UST-Global Hackathon
-Hello
